@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A12.2021.06592</string>
+    <string name="roti_bakar_keju">Roti Bakar Keju</string>
+    <string name="roti_bakar_coklat">Roti Bakar Coklat</string>
+    <string name="sandwich_beef" />
+    <string name="sandwich">Sandwich</string>
+    <string name="matcha_boba">Matcha Boba</string>
+    <string name="sandwich_beefs">Sandwich Beef</string>
+    <string name="taro_boba">Taro Boba</string>
+    <string name="sandwichs">Sandwich</string>
+    <string name="redvelvet_boba">Redvelvet Boba</string>
+    <string name="milk_boba">Milk Boba</string>
+    <string name="milo_boba">Milo Boba</string>
+    <string name="choco_boba">Choco Boba</string>
+    <string name="cari">Cari</string>
+    <string name="satrio">Satrio</string>
+    <string name="halo">Halo</string>
+</resources>
